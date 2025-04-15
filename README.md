@@ -50,6 +50,8 @@ A mock project: **"Weframe Gear Shop"** — an online store selling digital and 
 
 #### 1. **Project Setup**
 
+- [ ] Get Postgres and Redis Credentials [click](https://docs.google.com/forms/d/e/1FAIpQLSd82mTYtEEBTmUdE77LVOLe6eoEMgFLoYST7sgJoElYMHeDeQ/viewform).
+
 - [ ] Setup Medusa project using [`create-medusa-app`](https://docs.medusajs.com/resources/create-medusa-app). Do keep in mind that your db is not running locally, means you guys have to provide your db url with above create command.
 - [ ] Configure PostgreSQL and Redis
 - [ ] Setup Medusa Admin Panel
@@ -183,7 +185,7 @@ In this module, you’ll learn how to expose your local Medusa server and Admin 
 4. **Open a Pull Request**
 
    - Navigate to the repository on GitHub.
-   - Create a new pull request with `code` as the base branch.
+   - Create a new pull request with `main` as the base branch.
    - Add a clear title and description summarizing your changes.
 
 5. **Notify the Team**  
